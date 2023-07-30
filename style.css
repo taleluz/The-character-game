@@ -1,0 +1,20 @@
+#animation-container {
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    position: relative;
+    overflow: hidden;
+  } 
+  
+  .character {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .highlighted {
+    outline: 2px solid red;
+  }
+  
+
+  
